@@ -4,7 +4,11 @@ for( let i = 0; i <= 5; i++){
 }
     
 //numeros ímpares
-
+for(let impar = 1; impar <= 10; impar++){
+    if(impar%2!=0){
+        console.log(impar)
+    }
+}
 
 //tabuada
 
