@@ -19,3 +19,5 @@ console.log(fizBuzz(6,3));
 
 //exercicios2
 
+
+
